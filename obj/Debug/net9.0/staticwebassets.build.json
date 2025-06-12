@@ -1,0 +1,3391 @@
+{
+  "Version": 1,
+  "Hash": "FaWEknoTHDFvDeHGCecOHRkblnwOd52CHpMFGEpC7Tg=",
+  "Source": "FullImplementaionAPI",
+  "BasePath": "_content/FullImplementaionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FullImplementaionAPI\\wwwroot",
+      "Source": "FullImplementaionAPI",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\2kvbl8l75g-koyquwyjkb.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "swagger/favicon#[.{fingerprint=koyquwyjkb}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2xyc6b9xk3",
+      "Integrity": "xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\765j54uvnp-voqtbgdh21.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-newspaper#[.{fingerprint=voqtbgdh21}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-newspaper.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oqpvj83qai",
+      "Integrity": "8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-newspaper.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\8txt9f6fz2-ayv4w6a1cl.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-outline#[.{fingerprint=ayv4w6a1cl}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-outline.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hn592hsdvu",
+      "Integrity": "3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-outline.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\9apqzkaqvk-0dt8s28e9b.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint=0dt8s28e9b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-feeling-blue.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y32dmup1yk",
+      "Integrity": "7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\fjbue4ykos-ztoq639vv3.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-monokai#[.{fingerprint=ztoq639vv3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-monokai.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gol5qa4c5p",
+      "Integrity": "AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-monokai.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\gdi6hate59-6mebhig309.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/robot#[.{fingerprint=6mebhig309}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\robot.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ri3zx6nzux",
+      "Integrity": "bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\robot.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\goj6v6f1n3-n2v1xeq61i.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-flattop#[.{fingerprint=n2v1xeq61i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-flattop.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jq8efrqlzz",
+      "Integrity": "u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-flattop.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\l0rugp5cc4-y354m41174.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-material#[.{fingerprint=y354m41174}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-material.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jre6qqxmde",
+      "Integrity": "PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-material.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\nz0sptfxfn-k0kuzhetng.gz",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-muted#[.{fingerprint=k0kuzhetng}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-muted.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "16eaxezj2m",
+      "Integrity": "x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-muted.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\images\\deakin-logo.png",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "images/deakin-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "shqkopkvov",
+      "Integrity": "IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\deakin-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\robot.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/robot#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6mebhig309",
+      "Integrity": "vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\robot.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-feeling-blue.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0dt8s28e9b",
+      "Integrity": "XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-flattop.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-flattop#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2v1xeq61i",
+      "Integrity": "jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-flattop.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-material.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-material#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y354m41174",
+      "Integrity": "Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-material.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-monokai.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-monokai#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ztoq639vv3",
+      "Integrity": "NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-monokai.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-muted.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-muted#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k0kuzhetng",
+      "Integrity": "LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-muted.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-newspaper.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-newspaper#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "voqtbgdh21",
+      "Integrity": "oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-newspaper.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-outline.css",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "styles/theme-outline#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ayv4w6a1cl",
+      "Integrity": "wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\theme-outline.css"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon.ico",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "swagger/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "koyquwyjkb",
+      "Integrity": "7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-16x16.png",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "swagger/favicon-16x16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pgobsibfwr",
+      "Integrity": "Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Identity": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-32x32.png",
+      "SourceId": "FullImplementaionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\",
+      "BasePath": "_content/FullImplementaionAPI",
+      "RelativePath": "swagger/favicon-32x32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cya8ttf2t",
+      "Integrity": "qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\favicon-32x32.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/deakin-logo.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\images\\deakin-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4="
+        }
+      ]
+    },
+    {
+      "Route": "images/deakin-logo.shqkopkvov.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\images\\deakin-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shqkopkvov"
+        },
+        {
+          "Name": "label",
+          "Value": "images/deakin-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IN8KYPXzf0tFQHrHGwFA3Pm5MiDT1cBccUdWcNoOpl4="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.6mebhig309.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\gdi6hate59-6mebhig309.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005405405405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mebhig309"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.6mebhig309.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\robot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mebhig309"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.6mebhig309.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\gdi6hate59-6mebhig309.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6mebhig309"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\gdi6hate59-6mebhig309.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005405405405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\robot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vheLD+yVIrMrCjVVda+sognSClRX0iNt5w3ezGIGLNA="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\gdi6hate59-6mebhig309.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bTr6MiBAkXTRFIWqfPg382uV1vPPjhBxvxalR/hSAos="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\9apqzkaqvk-0dt8s28e9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180440274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-feeling-blue.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\9apqzkaqvk-0dt8s28e9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0dt8s28e9b"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-feeling-blue.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\9apqzkaqvk-0dt8s28e9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180440274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-feeling-blue.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-feeling-blue.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\9apqzkaqvk-0dt8s28e9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\goj6v6f1n3-n2v1xeq61i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180018002"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5554"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-flattop.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\goj6v6f1n3-n2v1xeq61i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\goj6v6f1n3-n2v1xeq61i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180018002"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5554"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-flattop.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-flattop.n2v1xeq61i.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\goj6v6f1n3-n2v1xeq61i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v1xeq61i"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-flattop.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\l0rugp5cc4-y354m41174.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000175623463"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5693"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\l0rugp5cc4-y354m41174.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\l0rugp5cc4-y354m41174.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000175623463"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5693"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-material.y354m41174.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\l0rugp5cc4-y354m41174.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y354m41174"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-material.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\fjbue4ykos-ztoq639vv3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000173761946"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-monokai.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\fjbue4ykos-ztoq639vv3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\fjbue4ykos-ztoq639vv3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000173761946"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-monokai.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-monokai.ztoq639vv3.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\fjbue4ykos-ztoq639vv3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztoq639vv3"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-monokai.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\nz0sptfxfn-k0kuzhetng.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180995475"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5524"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-muted.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\nz0sptfxfn-k0kuzhetng.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\nz0sptfxfn-k0kuzhetng.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000180995475"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5524"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-muted.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-muted.k0kuzhetng.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\nz0sptfxfn-k0kuzhetng.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0kuzhetng"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-muted.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\765j54uvnp-voqtbgdh21.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181620051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-newspaper.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\765j54uvnp-voqtbgdh21.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\765j54uvnp-voqtbgdh21.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181620051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-newspaper.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-newspaper.voqtbgdh21.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\765j54uvnp-voqtbgdh21.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voqtbgdh21"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-newspaper.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\8txt9f6fz2-ayv4w6a1cl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000182781941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5470"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-outline.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.ayv4w6a1cl.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\8txt9f6fz2-ayv4w6a1cl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayv4w6a1cl"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\8txt9f6fz2-ayv4w6a1cl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000182781941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5470"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\styles\\theme-outline.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\8txt9f6fz2-ayv4w6a1cl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\2kvbl8l75g-koyquwyjkb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000524934383"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1904"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.ico.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\2kvbl8l75g-koyquwyjkb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\2kvbl8l75g-koyquwyjkb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000524934383"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1904"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7I/ILuKQEjHgnIXITomHixTuSSmEuqb7BOyOO5VMbj4="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon.koyquwyjkb.ico.gz",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\obj\\Debug\\net9.0\\compressed\\2kvbl8l75g-koyquwyjkb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "koyquwyjkb"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xt2F8c9MhsIdRgVbCGEMUGZ7boGIZ8Sk/BbDpZ/hrBI="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-16x16.pgobsibfwr.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pgobsibfwr"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon-16x16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-16x16.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxtzn6at1JTuVqWcHraNyqQGQJ5UOJBYKs3/aS8AL80="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-32x32.6cya8ttf2t.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cya8ttf2t"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/favicon-32x32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/favicon-32x32.png",
+      "AssetFile": "C:\\Users\\Coope\\OneDrive\\Desktop\\Year3Tri1\\Full stack\\Week 7\\Authentiction and Authorization\\wwwroot\\swagger\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qgd29Hzn6xHuTplTL0VJ+dBqecxsh1FuUdn2T+PheqM="
+        }
+      ]
+    }
+  ]
+}

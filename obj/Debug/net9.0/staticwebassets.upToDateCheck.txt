@@ -1,0 +1,21 @@
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\swagger\favicon.ico
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-newspaper.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-outline.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-feeling-blue.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-monokai.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\robot.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-flattop.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-material.css
+C:\Users\Coope\OneDrive\Desktop\Year3Tri1\Full stack\Week 7\Authentiction and Authorization\wwwroot\styles\theme-muted.css
+wwwroot\images\deakin-logo.png
+wwwroot\styles\robot.css
+wwwroot\styles\theme-feeling-blue.css
+wwwroot\styles\theme-flattop.css
+wwwroot\styles\theme-material.css
+wwwroot\styles\theme-monokai.css
+wwwroot\styles\theme-muted.css
+wwwroot\styles\theme-newspaper.css
+wwwroot\styles\theme-outline.css
+wwwroot\swagger\favicon.ico
+wwwroot\swagger\favicon-16x16.png
+wwwroot\swagger\favicon-32x32.png
